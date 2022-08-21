@@ -1,0 +1,13 @@
+print('=== Desafio 4 ===')
+# faça um programa que leia um input do usuário e mostre todas as informações possiveis sobre ele
+n = input('Digite algo: ')
+print('Ele é do tipo: ', type(n))
+print('É somente espaços?', n.isspace())
+print('É alfabetico?', n.isalpha())
+print('É alphanumeric?',n.isnumeric())
+print('É um número?',n.isalnum())
+print('É decimal?',n.isdecimal())
+print('É um simbolo ascii?',n.isascii())
+print('É um digito?',n.isdigit())
+print('É lowercase?',n.islower())
+print('É capitalizado?',n.isupper())
