@@ -1,6 +1,6 @@
 print('=== Desafio 32 ===')
+# Faça um programa que leia um ano qualquer e mostre se ele é BISSEXTO.
 
-# mlk eu nem sei o que é ano bissexto
 # aparentemente não acontece em anos múltiplos de 100 que não são múltiplos de 400?
 # e o básico é que se o ano for divisivel for 4 ele é bissexto mas ai entra essa outra regra
 # sei programar só não sei contar 2.0
