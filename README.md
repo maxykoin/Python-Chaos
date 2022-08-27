@@ -7,4 +7,5 @@ A compilation of exercises to document my Python learning
 
 # Courses Taken
 [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+
 [Python for Everybody](https://www.py4e.com/lessons)
